@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+  padding-top: 70px;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Vous pouvez ajouter ici d’autres règles pour personnaliser votre site */
